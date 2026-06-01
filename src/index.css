@@ -1,0 +1,19 @@
+.btn{
+  width: 20;
+  height: 20;
+  background-color: blue;
+}
+body{
+  background-color: cadetblue;
+  padding: 20px;
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+}
+.btn{
+  
+  background: black;
+  color: white;
+
+}
