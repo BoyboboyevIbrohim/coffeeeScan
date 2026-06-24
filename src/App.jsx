@@ -1,9 +1,13 @@
 import React from 'react'
-import Header from './components/Header'
-
+import Formtest from './components/Formtest'
+import RegisterForm from './components/RegisterForm'
 const App = () => {
   return (
-    <Header />
+    <div  >
+      <RegisterForm />
+     
+    
+    </div>
   )
 }
 
